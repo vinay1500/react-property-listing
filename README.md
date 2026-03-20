@@ -20,14 +20,13 @@ No live link added yet.
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### Property Listings
-![Property Listings](./screenshots/property-listings.png)
+
 
 ### Filters
 ![Filters](./screenshots/filter.png)
 
 ### Add Property Form
-![Add Property Form](./screenshots/view details.png)
+![Add Property Form](./screenshots/viewdetails.png)
 
 ### Property Details
 ![Property Details](./screenshots/search.png)
