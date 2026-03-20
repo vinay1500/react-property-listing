@@ -127,9 +127,9 @@ react-property-listing/
 ├── tsconfig.json
 └── README.md
 ```
-##Getting Started
+## Getting Started
 
-#Prerequisites
+## Prerequisites
 
 Make sure you have installed:
 
@@ -137,7 +137,7 @@ Node.js
 
 npm
 
-Installation
+## Installation
 git clone https://github.com/vinay1500/react-property-listing.git
 cd react-property-listing
 npm install
@@ -148,13 +148,13 @@ npm start
 The app will start in development mode at:
 http://localhost:3000
 
-Build for production
+## Build for production
 npm run build
 
-Run tests
+## Run tests
 npm test
 
-Usage
+## Usage
 
 Browse available properties on the dashboard
 
@@ -166,7 +166,7 @@ Add a new property using the form section
 
 Switch between light and dark mode
 
-Future Improvements:
+## Future Improvements:
 
 Connect to a real backend API
 
