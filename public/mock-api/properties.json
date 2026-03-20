@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "name": "Sunny Villa",
+      "type": "Villa",
+      "location": "Goa",
+      "price": 7500000,
+      "description": "Luxurious villa with sea view.",
+      "imageUrl": "/images/2.png",
+      "latitude": 15.2993,
+      "longitude": 74.1236
+    },
+    {
+      "id": "2",
+      "name": "City Apartment",
+      "type": "Apartment",
+      "location": "Mumbai",
+      "price": 3500000,
+      "description": "Modern apartment in city center.",
+      "imageUrl": "/images/3.png",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "id": "3",
+      "name": "Duplex Posh Apartment",
+      "type": "Apartment",
+      "location": "Mumbai",
+      "price": 3500000,
+      "description": "Modern apartment in city center.",
+      "imageUrl": "https://images.unsplash.com/photo-1717356280846-eaef82389e30?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "id": "4",
+      "name": "Property by T.I.Y Group",
+      "type": "Apartment",
+      "location": "Mumbai",
+      "price": 3500000,
+      "description": "Modern apartment in city center.",
+      "imageUrl": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHZpbGxhfGVufDB8fDB8fHwy",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "id": "5",
+      "name": "City Apartment",
+      "type": "Apartment",
+      "location": "Mumbai",
+      "price": 3500000,
+      "description": "Modern apartment in city center.",
+      "imageUrl": "/images/1.png",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    }
+  ]
+  
