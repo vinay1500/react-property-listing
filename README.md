@@ -6,8 +6,8 @@ A mini property listing dashboard built with React and TypeScript for browsing, 
 
 No live link added yet.
 
-> Add your deployed link here once live:
-> `https://your-demo-link.com`
+#> Add your deployed link here once live:
+#> `https://your-demo-link.com`
 
 ## Topics
 
@@ -15,13 +15,10 @@ No live link added yet.
 
 ## Screenshots
 
-> Add your screenshots inside the `screenshots/` folder and keep the filenames updated below.
+
 
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
-
-### Property Listings
-![Property Listings](./screenshots/property-listings.png)
 
 
 ### Filters
