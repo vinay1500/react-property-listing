@@ -4,7 +4,6 @@ A mini property listing dashboard built with React and TypeScript for browsing, 
 
 ## Live Demo
 
-No live link added yet.
 
 > Live link:
 > `https://react-property-listing.eu`
