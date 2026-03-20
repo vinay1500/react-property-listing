@@ -126,9 +126,10 @@ react-property-listing/
 ├── package-lock.json
 ├── tsconfig.json
 └── README.md
+```
+##Getting Started
 
-Getting Started
-Prerequisites
+#Prerequisites
 
 Make sure you have installed:
 
