@@ -6,8 +6,8 @@ A mini property listing dashboard built with React and TypeScript for browsing, 
 
 No live link added yet.
 
-#> Add your deployed link here once live:
-#> `https://your-demo-link.com`
+> Live link:
+> `https://react-property-listing.eu`
 
 ## Topics
 
@@ -144,13 +144,16 @@ npm install
 
 Run locally
 npm start
+
 The app will start in development mode at:
 http://localhost:3000
 
 Build for production
 npm run build
+
 Run tests
 npm test
+
 Usage
 
 Browse available properties on the dashboard
@@ -163,7 +166,7 @@ Add a new property using the form section
 
 Switch between light and dark mode
 
-Future Improvements
+Future Improvements:
 
 Connect to a real backend API
 
@@ -188,12 +191,3 @@ Deploy with Netlify, Vercel, or Firebase Hosting
 License
 
 This project is open for learning and portfolio use.
-
-
-A few repo-specific notes:
-- Your current repo README is still the default Create React App template. :contentReference[oaicite:1]{index=1}
-- The app title visible in `App.tsx` is **“Mini Property Listing Dashboard”**, so keeping that phrase in the README is accurate. :contentReference[oaicite:2]{index=2}
-- I did not see a description, website, or GitHub topics set on the repo page yet. :contentReference[oaicite:3]{index=3}
-
-If you want, I can also rewrite this into a more polished “recruiter/portfolio” style README with badges, better formatting, and a stronger project pitch.
-::contentReference[oaicite:4]{index=4}
