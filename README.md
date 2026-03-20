@@ -20,6 +20,8 @@ No live link added yet.
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
+### Property Listings
+![Property Listings](./screenshots/property-listings.png)
 
 
 ### Filters
