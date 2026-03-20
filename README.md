@@ -188,6 +188,6 @@ Add authentication for admin/property management
 
 Deploy with Netlify, Vercel, or Firebase Hosting
 
-License
+## License
 
 This project is open for learning and portfolio use.
