@@ -24,13 +24,13 @@ No live link added yet.
 ![Property Listings](./screenshots/property-listings.png)
 
 ### Filters
-![Filters](./screenshots/filters.png)
+![Filters](./screenshots/filter.png)
 
 ### Add Property Form
-![Add Property Form](./screenshots/add-property-form.png)
+![Add Property Form](./screenshots/view details.png)
 
 ### Property Details
-![Property Details](./screenshots/property-details.png)
+![Property Details](./screenshots/search.png)
 
 ### Dark Mode
 ![Dark Mode](./screenshots/dark-mode.png)
