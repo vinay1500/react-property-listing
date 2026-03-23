@@ -4,10 +4,11 @@ A mini property listing dashboard built with React and TypeScript for browsing, 
 
 ## Live Demo
 
-
+<!---
 > Live link:
+> 
 > `https://react-property-listing.eu`
-
+--->
 ## Topics
 
 `react` `typescript` `create-react-app` `property-listing` `dashboard` `state-management` `filtering` `mock-api` `dark-mode` `frontend-project`
