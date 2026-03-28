@@ -2,8 +2,8 @@
 
 A mini property listing dashboard built with React and TypeScript for browsing, filtering, adding, and viewing property details.
 
-## Live Demo
-
+<!--- ## Live Demo
+--->
 <!---
 > Live link:
 > 
