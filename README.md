@@ -177,9 +177,9 @@ Add edit and delete property actions
 
 Add advanced filters such as price range, location, and category
 
-Add sorting by price, rating, or newest listing
+Add sorting by price, rating, or newest listing.
 
-Add form validation with better error messages
+Add form validation with better error messages.
 
 Store data in local storage or a database
 
